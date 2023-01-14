@@ -1,2 +1,3 @@
 # Git_Course
-GitHub course
+## Project notes
+Don,t make this
